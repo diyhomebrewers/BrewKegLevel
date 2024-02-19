@@ -11,6 +11,12 @@ Puedes ver los datos sin necesidad de Wifi o mediante wifi con diferentes integr
 Artículo de montaje y piezas necesarias:
 https://www.diyhomebrewers.com/2024/02/brewkeglevel-control-de-barriles-de.html
 
+![BrewKegLevel10](https://github.com/diyhomebrewers/BrewKegLevel/assets/77629780/1ea9ae99-82ad-4282-9289-60797aa1a311)
+
+![BrewKegLevel_CraftBeerPi_3](https://github.com/diyhomebrewers/BrewKegLevel/assets/77629780/df306180-0b94-48ae-9473-94e8ccc19d15)
+![BrewKegLevel_BarHelper7](https://github.com/diyhomebrewers/BrewKegLevel/assets/77629780/966e468a-32a0-4506-ab33-a8970dd1128f)
+![Brewfather_BrewKegLevel_2](https://github.com/diyhomebrewers/BrewKegLevel/assets/77629780/485412aa-8dab-4654-89b8-332e456d1fac)
+
 Este proyecto actualmente esta en desarrollo por www.diyhomebrewers.com . Documentación en curso en GitHub, artículo de montaje y piezas necesarias por el momento en: https://www.diyhomebrewers.com/2023/11/pill-repeater-repetidor-para-el-rapt.html
 __________________________________________________________
 BrewKegLevel: Control of beer barrels (liters, humidity and temperature).
